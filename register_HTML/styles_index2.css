@@ -1,0 +1,54 @@
+div input[type=button] {
+    width: 25%;
+    border: none;
+    border-radius: 12px;
+    background-color: lightgreen;
+    color: rgb(6, 7, 6);
+    text-decoration: none;
+    cursor: pointer;
+    margin: 2px 4px;
+    padding: 10px 20px;
+    font-size: 200%;
+}
+
+nav .namepage {
+    background-color: rgb(223, 230, 105);
+    justify-content: space-between;
+    padding: 0.2rem 0.75rem;
+    border-radius: 25px 25px;
+    display: flex;
+}
+
+nav div h1 {
+    font-size: 200%;
+    background-color: rgb(145, 194, 238);
+    border: none;
+    border-radius: 12px;
+    padding: 2px 4px;
+}
+
+nav div p {
+    font-size: 150%;
+}
+
+div h2 {
+    background-color: azure;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin: 5px 5px;
+    width: 50%;
+}
+
+nav div img {
+    border: none;
+    width: 7%;
+    height: 10%;
+}
+
+body {
+    background-image: url(image/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: 100% 100%;
+}
